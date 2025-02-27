@@ -1,3 +1,3 @@
 # Projeto-Dio-Java
-Alterando o arquivo de forma manual
-Alterando novamente
+Alterando o arquivo de forma manual.
+Realizando alterações no github
